@@ -2,13 +2,10 @@
 title: Corey Bohil
 email: corey.bohil@ucf.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dr. Corey Bohil is an associate professor in the Human Factors & Cognitive Psychology Program, Department of Psychology, University of Central Florida.
 url: "http://cbohil.github.io/" # the base hostname & protocol for your site
 
-twitter_username: xieyihui
-github_username:  yihui/knitr-jekyll
+github_username:  cbohil
 permalink: /:year/:month/:title.html
 
 # Build settings
