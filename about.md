@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The Categorization & Decision Lab at UCF focuses on basic and applied research into how people learn to classify elements of their environment (e.g., diagnostic judgments) and how they make decisions.  A long-term goal is to understand these cognitive behaviors well enough to apply our understanding to improve performance in operational  environments.  
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Our research has implications for the design of interactive technologies and for developing more effective training methods.  Research topics in the lab center on Applied Cognitive Science, Cognitive Engineering, and Clinical-Cognitive Science.  
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The lab emphasizes the use of computational cognitive modeling and mobile neuroimaging using functional near-infrared spectroscopy (fNIRS).
+
+The Categorization & Decision Lab is 
+
+a member of the IMMERSE @ UCF Lab
+a member of the Multidisciplinary Neuroscience Alliance at UCF
+a research partner with UCF RESTORES 
+an affiliate member of the UCF Cybersecurity and Privacy initiative
