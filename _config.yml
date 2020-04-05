@@ -2,7 +2,9 @@
 title: Corey Bohil
 email: corey.bohil@ucf.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Dr. Corey Bohil is an associate professor in the Human Factors & Cognitive Psychology Program, Department of Psychology, University of Central Florida.
+  Dr. Corey Bohil is an associate professor in the Human Factors & Cognitive 
+  Psychology Program, Department of Psychology, University of Central Florida.
+  4111 Pictor Lane, Orlando, FL 32816
 url: "http://cbohil.github.io/" # the base hostname & protocol for your site
 
 github_username:  cbohil
