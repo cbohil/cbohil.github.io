@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Categorization & Decision Lab
 permalink: /about/
 ---
 
