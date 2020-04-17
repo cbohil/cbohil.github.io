@@ -22,7 +22,7 @@ You must have installed the packages **blogdown** (>= 0.0.55).
 
 
 {% highlight r %}
-devtools::install_github("rstudio/blogdown")
+devtools::install_github('rstudio/blogdown')
 {% endhighlight %}
 
 Of course, you have to install [Jekyll](http://jekyllrb.com) as well. For Windows users, you have to make sure `jekyll` can be found from your environment variable `PATH`, i.e., R can call it via `system('jekyll')`. This is normally not an issue for Linux or macOS users (`gem install jekyll` is enough).
@@ -53,10 +53,10 @@ set.seed(123)
 
 
 {% highlight text %}
-##  [1]  9.44  9.77 11.56 10.07 10.13 11.72 10.46  8.73  9.31  9.55 11.22
-## [12] 10.36 10.40 10.11  9.44 11.79 10.50  8.03 10.70  9.53  8.93  9.78
-## [23]  8.97  9.27  9.37  8.31 10.84 10.15  8.86 11.25 10.43  9.70 10.90
-## [34] 10.88 10.82 10.69 10.55  9.94  9.69  9.62
+##  [1]  9.44  9.77 11.56 10.07 10.13 11.72 10.46  8.73  9.31  9.55 11.22 10.36
+## [13] 10.40 10.11  9.44 11.79 10.50  8.03 10.70  9.53  8.93  9.78  8.97  9.27
+## [25]  9.37  8.31 10.84 10.15  8.86 11.25 10.43  9.70 10.90 10.88 10.82 10.69
+## [37] 10.55  9.94  9.69  9.62
 {% endhighlight %}
 
 
@@ -81,8 +81,7 @@ knitr::kable(head(mtcars))
 
 {% highlight r %}
 (function() {
-    if (TRUE) 
-        1 + 1  # a boring comment
+  if (TRUE) 1 + 1  # a boring comment
 })()
 {% endhighlight %}
 
@@ -101,8 +100,7 @@ names(formals(servr::jekyll))  # arguments of the jekyll() function
 
 
 {% highlight text %}
-## [1] "dir"     "input"   "output"  "script"  "serve"   "command"
-## [7] "..."
+## [1] "dir"     "input"   "output"  "script"  "serve"   "command" "..."
 {% endhighlight %}
 
 Just to test inline R expressions[^2] in **knitr**, we know the first element in `x` (created in the code chunk above) is 9.44. You can certainly draw some graphs as well:
@@ -111,11 +109,11 @@ Just to test inline R expressions[^2] in **knitr**, we know the first element in
 
 
 {% highlight r %}
-par(mar = c(4, 4, 0.1, 0.1))
-plot(cars, pch = 19, col = "red")  # a scatterplot
+par(mar = c(4, 4, .1, .1))
+plot(cars, pch = 19, col = 'red')  # a scatterplot
 {% endhighlight %}
 
-![A scatterplot of the cars data](https://db.yihui.name/jekyll/2014-09-28-jekyll-with-knitr/cars-1.png)
+![A scatterplot of the cars data](/figure/./_posts/2014-09-28-jekyll-with-knitr/cars-1.png)
 
 ## The build script
 

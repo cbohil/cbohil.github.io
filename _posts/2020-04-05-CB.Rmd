@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Test2"
-output: html_document
+categories: [jekyll, rstats]
+tags: [blogdown, knitr, servr, httpuv, websocket]
 ---
 
 ```{r setup, include=FALSE}
