@@ -10,7 +10,8 @@ build_one = function(io) {
 }
 
 # Rmd files under the root directory
-rmds = list.files('.', '[.]Rmd$', recursive = TRUE, full.names = TRUE)
+# rmds = list.files('.', '[.]Rmd$', recursive = TRUE, full.names = TRUE)
+rmds = list.files('.', '[.]Rmd$', recursive = TRUE, full.names = FALSE)
 files = cbind(rmds, blogdown:::with_ext(rmds, '.md'))
 
 for (i in seq_len(nrow(files))) build_one(files[i, ])
