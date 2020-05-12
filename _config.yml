@@ -10,6 +10,8 @@ description: > # this means to ignore newlines until "baseurl:"
 #base.url: 'https://cbohil.github.io/'
 #baseurl: 'https://cbohil.github.io/'
 #base.url: '/'
+url: 'https://cbohil.github.io'
+baseurl: '/'
 
 #highlighter: rouge
 highlighter: false
