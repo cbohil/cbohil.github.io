@@ -1,7 +1,7 @@
 local({
   # fall back on '/' if baseurl is not specified
-  #baseurl = blogdown:::get_config2('baseurl', '/')
-  baseurl = servr:::jekyll_config('.', 'baseurl', '/')
+  baseurl = blogdown:::get_config2('baseurl', '/')
+  # baseurl = servr:::jekyll_config('.', 'baseurl', '/')
   knitr::opts_knit$set(base.url = baseurl)
   # fall back on 'kramdown' if markdown engine is not specified
   markdown = blogdown:::get_config2('markdown', 'kramdown')
@@ -10,8 +10,8 @@ local({
 
   # input/output filenames are passed as two additional arguments to Rscript
   a = commandArgs(TRUE)
-  # d = gsub('^_|[.][a-zA-Z]+$', '', a[1])
-  d = gsub('^|[.][a-zA-Z]+$', '', a[1])  
+  d = gsub('^_|[.][a-zA-Z]+$', '', a[1])
+  # d = gsub('^|[.][a-zA-Z]+$', '', a[1])  
   knitr::opts_chunk$set(
     fig.path   = sprintf('figure/%s/', d),
     cache.path = sprintf('cache/%s/', d)
