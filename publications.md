@@ -4,13 +4,13 @@ permalink: /publications/
 layout: page
 ---
 
-Patel, P., Sarno, D., Lewis, J., Shoss, M., Neider, M., & Bohil, C. (2019).  Perceptual representation of spam and phishing emails.  *Applied Cognitive Psychology*, **33**(6), 1296-1304, https://doi.org/10.1002/acp.3594
+Patel, P., Sarno, D., Lewis, J., Shoss, M., Neider, M., & Bohil, C. (2019).  Perceptual representation of spam and phishing emails.  *Applied Cognitive Psychology*, **33**(6), 1296-1304  [[paper]](https://www.mendeley.com/catalogue/b37a2804-2bd8-3435-bafa-14359ac1f36a/) [[DOI]](https://doi.org/10.1002/acp.3594)
 
-Sarno, D.M., Lewis, J.E., Bohil, C.J., & Neider, M.B. (2019). Which phish is on the hook?: Phishing vulnerability for older versus younger adults. *Human Factors*, https://doi.org/10.1177/0018720819855570
+Sarno, D.M., Lewis, J.E., Bohil, C.J., & Neider, M.B. (2019). Which phish is on the hook?: Phishing vulnerability for older versus younger adults. *Human Factors* [[paper]](https://www.mendeley.com/catalogue/2929f512-4a55-307a-b6a7-bdd0ae4942ec/) [[DOI]](https://doi.org/10.1177/0018720819855570)
 
-Williams, S., Sarno, D., Lewis, J., Shoss, M., Neider, M., & Bohil, C. (2019).  The psychological interaction of spam email features.  *Ergonomics*,  **62**(8), 983-994.  https://doi.org/10.1080/00140139.2019.1614681    
+Williams, S., Sarno, D., Lewis, J., Shoss, M., Neider, M., & Bohil, C. (2019).  The psychological interaction of spam email features.  *Ergonomics*,  **62**(8), 983-994. [[paper]](https://www.mendeley.com/catalogue/4ec7e6e0-bab9-3a6f-9f52-171c637d8eb2/) [[DOI]](https://doi.org/10.1080/00140139.2019.1614681)
 
-Kleider-Offutt, H., Bond, A., Williams, S., & Bohil, C. (2018).  When a face-type is perceived as threatening:  Using General Recognition Theory to understand biased categorization of Afrocentric faces.  *Memory & Cognition*, **46**(5), 716-728. [download](https://www.mendeley.com/catalogue/5c679072-966c-342c-a5fa-9f9f1d664d9d/){:target="_blank"} 
+Kleider-Offutt, H., Bond, A., Williams, S., & Bohil, C. (2018).  When a face-type is perceived as threatening:  Using General Recognition Theory to understand biased categorization of Afrocentric faces.  *Memory & Cognition*, **46**(5), 716-728. [[paper]](https://www.mendeley.com/catalogue/5c679072-966c-342c-a5fa-9f9f1d664d9d/){:target="_blank"} [[DOI]](https://doi.org/10.3758/s13421-018-0801-0)
 
 Bedwell, J.S., Bohil, C.J., Neider, M.B., Gramlich, M.A., Neer, S.M., O’Donnell, J.P. & Beidel, D.C. (2018). Neurophysiological response to olfactory stimuli in combat veterans with posttraumatic stress disorder. *Journal of Nervous and Mental Disease*, **206**, 423-428. 
 

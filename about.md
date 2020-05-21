@@ -10,9 +10,22 @@ Our research has implications for the design of interactive technologies and for
 
 The lab emphasizes the use of computational cognitive modeling and mobile neuroimaging using functional near-infrared spectroscopy (fNIRS).
 
-The Categorization & Decision Lab is 
 
-a member of the IMMERSE @ UCF Lab
-a member of the Multidisciplinary Neuroscience Alliance at UCF
-a research partner with UCF RESTORES 
-an affiliate member of the UCF Cybersecurity and Privacy initiative
+## Affiliations 
+The Categorization & Decision Lab is 
+* [a member of the IMMERSE @ UCF Lab](https://sciences.ucf.edu/psychology/immerse/#section-1)
+* [a member of the Multidisciplinary Neuroscience Alliance at UCF](https://med.ucf.edu/mdna/)
+* [a research partner with UCF RESTORES](https://www.ucfrestores.org/)
+* [an affiliate member of the UCF Cybersecurity and Privacy initiative](https://cybersecurity.ce.ucf.edu/)
+
+
+## Funding
+Our research has been funded by the following organizations
+* US Department of Defense
+* NIH National Eye Institute
+* NIH National Institute on Aging
+* Office of Naval Research
+* US Army Medical Research Institute
+* UCF Office of Research & Commercialization
+
+
