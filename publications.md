@@ -4,6 +4,8 @@ permalink: /publications/
 layout: page
 ---
 
+Ercolino, A., Patel, P., Bohil, C., Neider, M., & Schmidt, J. (in press).  Target specificity improves search, but how universal is the benefit?  *Attention, Perception, & Psychophysics*, **00**(0), 000-000.
+
 Patel, P., Sarno, D., Lewis, J., Shoss, M., Neider, M., & Bohil, C. (2019).  Perceptual representation of spam and phishing emails.  *Applied Cognitive Psychology*, **33**(6), 1296-1304  [[paper]](https://www.mendeley.com/catalogue/b37a2804-2bd8-3435-bafa-14359ac1f36a/) [[DOI]](https://doi.org/10.1002/acp.3594)
 
 Sarno, D.M., Lewis, J.E., Bohil, C.J., & Neider, M.B. (2019). Which phish is on the hook?: Phishing vulnerability for older versus younger adults. *Human Factors* [[paper]](https://www.mendeley.com/catalogue/2929f512-4a55-307a-b6a7-bdd0ae4942ec/) [[DOI]](https://doi.org/10.1177/0018720819855570)
